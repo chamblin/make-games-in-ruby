@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.10.9.pre1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gosu (~> 0.10.9.pre1)
+
+BUNDLED WITH
+   1.10.6
